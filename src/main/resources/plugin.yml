@@ -1,0 +1,7 @@
+name: MoreWonderfulPetingSystem
+version: '${project.version}'
+main: top.mcnatural.Main
+api-version: 1.17
+authors: [ NaT_Jerry ]
+description: Make Minecraft's Pet System More Wonderful and More Playable
+website: https://github.com/NaturalGroup
